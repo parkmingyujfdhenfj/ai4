@@ -71,19 +71,19 @@ st.markdown("---")
 CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
      labels[0]: {
-       "texts": [""],
-       "images": [""],
-       "videos": [""]
+       "texts": ["아치교는 무지개 다리라고도 하며, 무지개와 같은 반원 모양으로 굽은 교량 구조입니다."],
+       "images": ["https://share.google/images/uA9a2wXLN9A0X2zE5"],
+       "videos": ["https://www.youtube.com/watch?v=Eba-AAe7jcE"]
      },
      labels[1]: {
-       "texts": [""],
-       "images": [""],
-       "videos": [""]
+       "texts": ["트러스교는 여러 개의 직선 부재를 삼각형 형태로 연결한 트러스 구조를 주 상부 구조로 사용한 교량을 말합니다."],
+       "images": ["https://share.google/images/1DrtnYdwRAB5439r3"],
+       "videos": ["https://www.youtube.com/watch?v=Hn_iozUo9m4"]
      },
      labels[2]: {
-       "texts": [""],
-       "images": [""],
-       "videos": [""]
+       "texts": ["현수교는 주탑과 주탑 사이를 연결하는 주 케이블이 있고, 이 주 케이블에서 수직으로 늘어뜨린 케이블(행거)을 통해 다리 상판을 매달아 지지하는 다리입니다."],
+       "images": ["https://share.google/images/3IaJ0K5W2bohYQUBW"],
+       "videos": ["https://www.youtube.com/watch?v=HjX0tN33wXU"]
      },
 }
 
